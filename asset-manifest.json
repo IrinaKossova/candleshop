@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/candleshop/static/css/main.48b2c8fc.css",
+    "main.js": "/candleshop/static/js/main.a9467e31.js",
+    "static/media/incenseImage2.jpg": "/candleshop/static/media/incenseImage2.9a413830f75994573d58.jpg",
+    "static/media/candlesImage1.jpg": "/candleshop/static/media/candlesImage1.1901f16646621f861119.jpg",
+    "static/media/incenseImage1.jpg": "/candleshop/static/media/incenseImage1.cde90a2a851ae24b6aec.jpg",
+    "static/media/footer-icon1.png": "/candleshop/static/media/footer-icon1.583e61f469c8094f3db5.png",
+    "static/media/candlesImage2.jpg": "/candleshop/static/media/candlesImage2.a75ba83b64ec3b7883ad.jpg",
+    "static/media/footer-icon2.png": "/candleshop/static/media/footer-icon2.a64da7ac2f97400b2b8f.png",
+    "static/media/candlesImage3.jpg": "/candleshop/static/media/candlesImage3.a94ebc65c6e925031de5.jpg",
+    "static/media/incenseImage3.jpg": "/candleshop/static/media/incenseImage3.170fa3a074167d0a6db5.jpg",
+    "index.html": "/candleshop/index.html",
+    "main.48b2c8fc.css.map": "/candleshop/static/css/main.48b2c8fc.css.map",
+    "main.a9467e31.js.map": "/candleshop/static/js/main.a9467e31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b2c8fc.css",
+    "static/js/main.a9467e31.js"
+  ]
+}
